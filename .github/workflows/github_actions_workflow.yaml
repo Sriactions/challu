@@ -17,5 +17,5 @@ jobs:
         with:
           args: >
               -Dsonar.organization=sriactions
-              -Dsonar.projectKey=challu
+              -Dsonar.projectKey=sriactions
               -Dsonar.python.coverage.reportPaths=coverage.xml
